@@ -38,7 +38,7 @@
     <EnableDefaultItems>false</EnableDefaultItems>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="CustomAction1.cs" />
+    <Compile Include="ChangeFormFieldValue.cs" />
     <Compile Include="CustomAction1Config.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
