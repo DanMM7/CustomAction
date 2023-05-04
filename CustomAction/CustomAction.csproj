@@ -39,7 +39,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ChangeFormFieldValue.cs" />
-    <Compile Include="CustomAction1Config.cs" />
+    <Compile Include="ChangeFormFieldValueConfig.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

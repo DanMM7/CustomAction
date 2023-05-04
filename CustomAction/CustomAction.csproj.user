@@ -2,10 +2,10 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="CustomAction1.cs">
+    <Compile Update="ChangeFormFieldValue.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="CustomAction1Config.cs">
+    <Compile Update="ChangeFormFieldValueConfig.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
