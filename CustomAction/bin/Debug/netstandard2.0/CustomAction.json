@@ -1,10 +1,10 @@
 [
   {
     "Guid": "6caf91d8-7652-4a44-8f9d-d04cd9efefd2",
-    "Name": "CustomAction1",
+    "Name": "ChangeFormFieldValue",
     "Description": "",
     "Assembly": "CustomAction",
-    "Class": "CustomAction.CustomAction1",
+    "Class": "CustomAction.ChangeFormFieldValue",
     "Type": "CustomAction"
   }
   //{
